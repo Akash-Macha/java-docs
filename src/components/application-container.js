@@ -1,3 +1,3 @@
-const ApplicationContainer = () => <header>HEAD</header>;
+const ApplicationContainer = () => <header>This should be shown!</header>;
 
 export default ApplicationContainer;
